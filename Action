@@ -1,0 +1,66 @@
+if (Action1_UP)
+   {
+      Print("Action1_UP is selected!");
+   }
+   else
+      if (Action1_DN)
+         {
+         
+         }
+         else
+            if (Action2A_UP)
+               {
+               
+               }
+               else
+                  if (Action2A_DN)
+                     {
+                     
+                     }
+                     else
+                        if (Action2B_UP)
+                           {
+                           
+                           }
+                           else
+                              if (Action2B_DN)
+                                 {
+                                 
+                                 }
+                                 else
+                                    if (Action3A_UP)
+                                       {
+                                       
+                                       }
+                                       else
+                                          if (Action3B_UP)
+                                             {
+                                             
+                                             }
+                                             else
+                                                if (Action3B_DN)
+                                                   {
+                                                   
+                                                   }
+                                                   else
+                                                      if (Action4A)
+                                                         {
+                                                         
+                                                         }
+                                                         else
+                                                            if (Action4B)
+                                                               {
+                                                               
+                                                               }
+                                                               else
+                                                                  if (Action5)
+                                                                     {
+                                                                     
+                                                                     }
+                                                                     else
+                                                                        if (Action6)
+                                                                           {
+                                                                           
+                                                                           }
+                                                                           else
+                                                                              Print("Alert! No Action is selected!");
